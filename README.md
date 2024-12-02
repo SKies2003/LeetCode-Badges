@@ -6,7 +6,7 @@
 
 <br>
 
-# ✅ Earnable Badges List ✅
+# ✅ Earnable Badges ✅
 
 <br>
 

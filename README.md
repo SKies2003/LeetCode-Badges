@@ -161,6 +161,13 @@
     <td align="center">✅</td>
   </tr>
   <tr>
+    <td align="center"><img src="Media/Badges/Submission-Days/PNG/2k.png" width="150"></td>
+    <td align="center">2000 Days Badge</td>
+    <td align="center">Submit solutions on 2000+ distinct days</td>
+    <td align="center">Submission Days</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
     <td align="center"><img src="Media/Badges/Submission-Days/PNG/1k.png" width="150"></td>
     <td align="center">1000 Days Badge</td>
     <td align="center">Submit solutions on 1000+ distinct days</td>

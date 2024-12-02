@@ -11,6 +11,7 @@
     <th>Name</th>
     <th>How to Get</th>
     <th>Type</th>
+    <th>Earnable</th>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2024-lg.png" width="150"></td>

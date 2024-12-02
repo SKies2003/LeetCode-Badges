@@ -16,28 +16,28 @@
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2024-lg.png" width="200"></td>
     <td align="center">Annual Badge 2024</td>
-    <td align="center">Submit solutions on 300+ distinct days in 2024</td>
+    <td align="center">Submit code on 300+ distinct days in 2024</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2024-200-lg.png" width="200"></td>
     <td align="center">200 Days Badge 2024</td>
-    <td align="center">Submit solutions on 200+ distinct days in 2024</td>
+    <td align="center">Submit code on 200+ distinct days in 2024</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2024-100-lg.png" width="200"></td>
     <td align="center">100 Days Badge 2024</td>
-    <td align="center">Submit solutions on 100+ distinct days in 2024</td>
+    <td align="center">Submit code on 100+ distinct days in 2024</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2024-50-lg.png" width="200"></td>
     <td align="center">50 Days Badge 2024</td>
-    <td align="center">Submit solutions on 50+ distinct days in 2024</td>
+    <td align="center">Submit code on 50+ distinct days in 2024</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -58,7 +58,7 @@
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-12.png" width="200"></td>
     <td align="center">Dec 2024 Badge</td>
-    <td align="center">Submit solutions daily in December 2024</td>
+    <td align="center">Submit code daily in December 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -163,392 +163,392 @@
   <tr>
     <td align="center"><img src="Media/Badges/Submission-Days/PNG/2k.png" width="200"></td>
     <td align="center">2000 Days Badge</td>
-    <td align="center">Submit solutions on 2000+ distinct days</td>
+    <td align="center">Submit code on 2000+ distinct days</td>
     <td align="center">Submission Days</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Submission-Days/PNG/1k.png" width="200"></td>
     <td align="center">1000 Days Badge</td>
-    <td align="center">Submit solutions on 1000+ distinct days</td>
+    <td align="center">Submit code on 1000+ distinct days</td>
     <td align="center">Submission Days</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Submission-Days/PNG/500.png" width="200"></td>
     <td align="center">500 Days Badge</td>
-    <td align="center">Submit solutions on 500+ distinct days</td>
+    <td align="center">Submit code on 500+ distinct days</td>
     <td align="center">Submission Days</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Submission-Days/PNG/365.png" width="200"></td>
     <td align="center">365 Days Badge</td>
-    <td align="center">Submit solutions on 365+ distinct days</td>
+    <td align="center">Submit code on 365+ distinct days</td>
     <td align="center">Submission Days</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg2023.png" width="200"></td>
     <td align="center">Annual Badge 2023</td>
-    <td align="center">Submit solutions on 300+ distinct days in 2023</td>
+    <td align="center">Submit code on 300+ distinct days in 2023</td>
     <td align="center">Annual Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg100.png" width="200"></td>
     <td align="center">100 Days Badge 2023</td>
-    <td align="center">Submit solutions on 100+ distinct days in 2023</td>
+    <td align="center">Submit code on 100+ distinct days in 2023</td>
     <td align="center">Annual Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg50.png" width="200"></td>
     <td align="center">50 Days Badge 2023</td>
-    <td align="center">Submit solutions on 50+ distinct days in 2023</td>
+    <td align="center">Submit code on 50+ distinct days in 2023</td>
     <td align="center">Annual Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2022-annual.png" width="200"></td>
     <td align="center">Annual Badge 2022</td>
-    <td align="center">Submit solutions on 300+ distinct days in 2022</td>
+    <td align="center">Submit code on 300+ distinct days in 2022</td>
     <td align="center">Annual Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/annual-badge-2021-front.png" width="200"></td>
     <td align="center">Annual Medal 2021</td>
-    <td align="center">Submit solutions on 300+ distinct days in 2021</td>
+    <td align="center">Submit code on 300+ distinct days in 2021</td>
     <td align="center">Annual Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-1.png" width="200"></td>
     <td align="center">Jan 2024 Badge</td>
-    <td align="center">Submit solutions daily in January 2024</td>
+    <td align="center">Submit code daily in January 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-2.png" width="200"></td>
     <td align="center">Feb 2024 Badge</td>
-    <td align="center">Submit solutions daily in February 2024</td>
+    <td align="center">Submit code daily in February 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-3.png" width="200"></td>
     <td align="center">Mar 2024 Badge</td>
-    <td align="center">Submit solutions daily in March 2024</td>
+    <td align="center">Submit code daily in March 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-4.png" width="200"></td>
     <td align="center">Apr 2024 Badge</td>
-    <td align="center">Submit solutions daily in April 2024</td>
+    <td align="center">Submit code daily in April 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-5.png" width="200"></td>
     <td align="center">May 2024 Badge</td>
-    <td align="center">Submit solutions daily in May 2024</td>
+    <td align="center">Submit code daily in May 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-6.png" width="200"></td>
     <td align="center">Jun 2024 Badge</td>
-    <td align="center">Submit solutions daily in June 2024</td>
+    <td align="center">Submit code daily in June 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-7.png" width="200"></td>
     <td align="center">Jul 2024 Badge</td>
-    <td align="center">Submit solutions daily in July 2024</td>
+    <td align="center">Submit code daily in July 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-8.png" width="200"></td>
     <td align="center">Aug 2024 Badge</td>
-    <td align="center">Submit solutions daily in August 2024</td>
+    <td align="center">Submit code daily in August 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-9.png" width="200"></td>
     <td align="center">Sep 2024 Badge</td>
-    <td align="center">Submit solutions daily in September 2024</td>
+    <td align="center">Submit code daily in September 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-10.png" width="200"></td>
     <td align="center">Oct 2024 Badge</td>
-    <td align="center">Submit solutions daily in October 2024</td>
+    <td align="center">Submit code daily in October 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-11.png" width="200"></td>
     <td align="center">Nov 2024 Badge</td>
-    <td align="center">Submit solutions daily in November 2024</td>
+    <td align="center">Submit code daily in November 2024</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
     <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-1.png" width="200"></td>
     <td align="center">Jan 2023 Badge</td>
-    <td align="center">Submit solutions daily in January 2023</td>
+    <td align="center">Submit code daily in January 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-2.png" width="200"></td>
     <td align="center">Feb 2023 Badge</td>
-    <td align="center">Submit solutions daily in February 2023</td>
+    <td align="center">Submit code daily in February 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-3.png" width="200"></td>
     <td align="center">Mar 2023 Badge</td>
-    <td align="center">Submit solutions daily in March 2023</td>
+    <td align="center">Submit code daily in March 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-4.png" width="200"></td>
     <td align="center">Apr 2023 Badge</td>
-    <td align="center">Submit solutions daily in April 2023</td>
+    <td align="center">Submit code daily in April 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-5.png" width="200"></td>
     <td align="center">May 2023 Badge</td>
-    <td align="center">Submit solutions daily in May 2023</td>
+    <td align="center">Submit code daily in May 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-6.png" width="200"></td>
     <td align="center">Jun 2023 Badge</td>
-    <td align="center">Submit solutions daily in June 2023</td>
+    <td align="center">Submit code daily in June 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-7.png" width="200"></td>
     <td align="center">Jul 2023 Badge</td>
-    <td align="center">Submit solutions daily in July 2023</td>
+    <td align="center">Submit code daily in July 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-8.png" width="200"></td>
     <td align="center">Aug 2023 Badge</td>
-    <td align="center">Submit solutions daily in August 2023</td>
+    <td align="center">Submit code daily in August 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-9.png" width="200"></td>
     <td align="center">Sep 2023 Badge</td>
-    <td align="center">Submit solutions daily in September 2023</td>
+    <td align="center">Submit code daily in September 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-10.png" width="200"></td>
     <td align="center">Oct 2023 Badge</td>
-    <td align="center">Submit solutions daily in October 2023</td>
+    <td align="center">Submit code daily in October 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-11.png" width="200"></td>
     <td align="center">Nov 2023 Badge</td>
-    <td align="center">Submit solutions daily in November 2023</td>
+    <td align="center">Submit code daily in November 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-12.png" width="200"></td>
     <td align="center">Dec 2023 Badge</td>
-    <td align="center">Submit solutions daily in December 2023</td>
+    <td align="center">Submit code daily in December 2023</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-1.png" width="200"></td>
     <td align="center">Jan 2021 Badge</td>
-    <td align="center">Submit solutions daily in January 2021</td>
+    <td align="center">Submit code daily in January 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-2.png" width="200"></td>
     <td align="center">Feb 2021 Badge</td>
-    <td align="center">Submit solutions daily in February 2021</td>
+    <td align="center">Submit code daily in February 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-3.png" width="200"></td>
     <td align="center">Mar 2021 Badge</td>
-    <td align="center">Submit solutions daily in March 2021</td>
+    <td align="center">Submit code daily in March 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-4.png" width="200"></td>
     <td align="center">Apr 2021 Badge</td>
-    <td align="center">Submit solutions daily in April 2021</td>
+    <td align="center">Submit code daily in April 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-5.png" width="200"></td>
     <td align="center">May 2021 Badge</td>
-    <td align="center">Submit solutions daily in May 2021</td>
+    <td align="center">Submit code daily in May 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-6.png" width="200"></td>
     <td align="center">Jun 2021 Badge</td>
-    <td align="center">Submit solutions daily in June 2021</td>
+    <td align="center">Submit code daily in June 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-7.png" width="200"></td>
     <td align="center">Jul 2021 Badge</td>
-    <td align="center">Submit solutions daily in July 2021</td>
+    <td align="center">Submit code daily in July 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-8.png" width="200"></td>
     <td align="center">Aug 2021 Badge</td>
-    <td align="center">Submit solutions daily in August 2021</td>
+    <td align="center">Submit code daily in August 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-9.png" width="200"></td>
     <td align="center">Sep 2021 Badge</td>
-    <td align="center">Submit solutions daily in September 2021</td>
+    <td align="center">Submit code daily in September 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-10.png" width="200"></td>
     <td align="center">Oct 2021 Badge</td>
-    <td align="center">Submit solutions daily in October 2021</td>
+    <td align="center">Submit code daily in October 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-11.png" width="200"></td>
     <td align="center">Nov 2021 Badge</td>
-    <td align="center">Submit solutions daily in November 2021</td>
+    <td align="center">Submit code daily in November 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-12.png" width="200"></td>
     <td align="center">Dec 2021 Badge</td>
-    <td align="center">Submit solutions daily in December 2021</td>
+    <td align="center">Submit code daily in December 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-1.png" width="200"></td>
     <td align="center">Jan 2022 Badge</td>
-    <td align="center">Submit solutions daily in January 2022</td>
+    <td align="center">Submit code daily in January 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-2.png" width="200"></td>
     <td align="center">Feb 2022 Badge</td>
-    <td align="center">Submit solutions daily in February 2022</td>
+    <td align="center">Submit code daily in February 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-3.png" width="200"></td>
     <td align="center">Mar 2022 Badge</td>
-    <td align="center">Submit solutions daily in March 2022</td>
+    <td align="center">Submit code daily in March 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-4.png" width="200"></td>
     <td align="center">Apr 2022 Badge</td>
-    <td align="center">Submit solutions daily in April 2022</td>
+    <td align="center">Submit code daily in April 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-5.png" width="200"></td>
     <td align="center">May 2022 Badge</td>
-    <td align="center">Submit solutions daily in May 2022</td>
+    <td align="center">Submit code daily in May 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-6.png" width="200"></td>
     <td align="center">Jun 2022 Badge</td>
-    <td align="center">Submit solutions daily in June 2022</td>
+    <td align="center">Submit code daily in June 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-7.png" width="200"></td>
     <td align="center">Jul 2022 Badge</td>
-    <td align="center">Submit solutions daily in July 2022</td>
+    <td align="center">Submit code daily in July 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-8.png" width="200"></td>
     <td align="center">Aug 2022 Badge</td>
-    <td align="center">Submit solutions daily in August 2022</td>
+    <td align="center">Submit code daily in August 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-9.png" width="200"></td>
     <td align="center">Sep 2022 Badge</td>
-    <td align="center">Submit solutions daily in September 2022</td>
+    <td align="center">Submit code daily in September 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-10.png" width="200"></td>
     <td align="center">Oct 2022 Badge</td>
-    <td align="center">Submit solutions daily in October 2022</td>
+    <td align="center">Submit code daily in October 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-11.png" width="200"></td>
     <td align="center">Nov 2022 Badge</td>
-    <td align="center">Submit solutions daily in November 2022</td>
+    <td align="center">Submit code daily in November 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-12.png" width="200"></td>
     <td align="center">Dec 2022 Badge</td>
-    <td align="center">Submit solutions daily in December 2022</td>
+    <td align="center">Submit code daily in December 2022</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>

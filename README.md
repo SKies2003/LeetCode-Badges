@@ -9,7 +9,7 @@
   <tr>
     <th>Badge</th>
     <th>Name</th>
-    <th>How to Get</th>
+    <th>How to Earn</th>
     <th>Type</th>
     <th>Earnable</th>
   </tr>

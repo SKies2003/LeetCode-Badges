@@ -217,6 +217,13 @@
     <td align="center">❌</td>
   </tr>
   <tr>
+    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/annual-badge-2021-front.png" width="150"></td>
+    <td align="center">Annual Medal 2021</td>
+    <td align="center">Submit solutions on 300+ distinct days in 2021</td>
+    <td align="center">Annual Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-1.png" width="150"></td>
     <td align="center">Jan 2024 Badge</td>
     <td align="center">Submit solutions daily in January 2024</td>

@@ -56,7 +56,7 @@
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Top_100_Liked.png" width="200"></td>
+    <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Top_Interview_150.png" width="200"></td>
     <td align="center">Top Interview 150</td>
     <td align="center">Complete the "Top Interview 150" study plan</td>
     <td align="center">Study Plan Medals</td>
@@ -70,7 +70,7 @@
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Top_100_Liked-1.png" width="200"></td>
+    <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Top_100_Liked.png" width="200"></td>
     <td align="center">Top 100 Liked</td>
     <td align="center">Complete the "Top 100 Liked" study plan</td>
     <td align="center">Study Plan Medals</td>

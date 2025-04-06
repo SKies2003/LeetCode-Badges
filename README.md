@@ -51,7 +51,7 @@
   <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Programming_Skills.png" width="200"></td>
     <td align="center">30 Days of JavaScript</td>
-    <td align="center">Complete "30 Days of JavaScript" study plan</td>
+    <td align="center">Complete the "30 Days of JavaScript" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">✅</td>
   </tr>

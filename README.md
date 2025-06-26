@@ -161,6 +161,13 @@
     <td align="center">✅</td>
   </tr>
   <tr>
+    <td align="center"><img src="Media/Badges/Submission-Days/PNG/50.png" width="200"></td>
+    <td align="center">50 Days Badge</td>
+    <td align="center">Submit code on 50+ distinct days</td>
+    <td align="center">Submission Days</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2024-lg.png" width="200"></td>
     <td align="center">Annual Badge 2024</td>
     <td align="center">Submit code on 300+ distinct days in 2024</td>
